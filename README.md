@@ -135,12 +135,12 @@ This project is licensed under the MIT License.
 
 ## Author
 
-Pratham P Bhandary
+**Pratham P Bhandary**
 **Email:** prathamkoni36@gamial.com
 **Linkedin:** https://www.linkedin.com/in/pratham-p-bhandary/
 ---
 
 ## Notes
 
-**All SQL queries used in this project are included in the file:** https://github.com/PRATHAMPBHANDARY/Spotify-SQL-Data-Analysis/blob/75d7d69f5f657f2ce52dd1864d220d6238deb08a/SPOTIFY%20SQL%20Queries.pdf
+**All SQL queries used in this project are included in the Repository**
 
